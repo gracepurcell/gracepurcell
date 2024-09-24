@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a home management app, to make chores and financial milestones easier. I'm looking to collaborate on new projects that interest me, are beautifully creative or support a cause that is dear to me. I'm looking for help and improving my skills in the DevOps community. I'm an Irish Cailín living in Berlin, looking to find a modern office with nice people or a flexible remote job.
+I'm currently working on a home management app, to make chores and financial milestones easier, along side a 2D-top-down game with TVCStudios using godot. I'm looking to collaborate on new projects that interest me, are beautifully creative or support a cause that is dear to me. I'm looking for help and improving my skills in the DevOps community. I'm an Irish Cailín living in Berlin, looking to find a modern office with nice people or a flexible remote job.
 
 
 ## 🌐 Socials:
